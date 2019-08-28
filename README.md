@@ -17,10 +17,19 @@
 
 # FUNDAMENTOS DE PROGRAMACIÓN CON C++
 
-## Video 01
+## Video 001
 
 - Tema: Instalación de DEV C++
 - URL: https://youtu.be/IVsHAGsjuEc
 
 
+## Video 002
 
+- Tema: Tipos de datos y variables
+- URL: https://youtu.be/7dJCdLHVE1U
+
+
+## Video 003
+
+- Tema: Operadores Aritméticos
+- URL: 
