@@ -32,4 +32,4 @@
 ## Video 003
 
 - Tema: Operadores Aritméticos
-- URL: 
+- URL: https://youtu.be/WsPtnDRAhLs

@@ -1,3 +1,5 @@
+// Operadores de asignación
+
 #include <iostream>
 
 using namespace std;
@@ -35,7 +37,7 @@ int main(){
 	// 6.- Asignación modulo
 	x = 6;
 	x %= 4;
-	cout << "7.- x = " << x << endl;
+	cout << "6.- x = " << x << endl;
 	
 	return 0;
 }
