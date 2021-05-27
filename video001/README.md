@@ -15,5 +15,6 @@
 ## Video 001
 
 - Tema: Instalación de DEV C++
-- URL: https://youtu.be/IVsHAGsjuEc
+- Video: https://youtu.be/IVsHAGsjuEc
+- Material: https://www.calameo.com/read/00484660949495af1181e
 
