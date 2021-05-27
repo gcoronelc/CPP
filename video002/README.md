@@ -15,5 +15,6 @@
 ## Video 002
 
 - Tema: Tipos de datos y variables
-- URL: https://youtu.be/7dJCdLHVE1U
+- Video: https://youtu.be/7dJCdLHVE1U
+- Material: https://www.calameo.com/read/00484660916096af2c21d
 
