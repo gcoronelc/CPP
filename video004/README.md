@@ -15,7 +15,9 @@
 ## Video 004
 
 - Tema: Operadores Relacionales
-- URL: https://youtu.be/pC28YbWfgTo
+- Video: https://youtu.be/pC28YbWfgTo
+- Material: https://www.calameo.com/read/0048466093c2da97deae3
+
 
 
 

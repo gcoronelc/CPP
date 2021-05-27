@@ -12,11 +12,11 @@
 
 # FUNDAMENTOS DE PROGRAMACIÓN CON C++
 
-## Video 003
+## Video 005
 
-- Tema: Operadores Aritméticos
-- Video: https://youtu.be/WsPtnDRAhLs
-- Material: https://www.calameo.com/read/0048466096a126a7f6e76
+- Tema: Operadores Relacionales
+- Video: https://youtu.be/UpU2AasVjOM
+- Material: https://www.calameo.com/read/0048466099a055ca6567c
 
 
 
